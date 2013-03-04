@@ -1,0 +1,30 @@
+{
+    "schueler" : [
+    {"username" : "mark", "givenname" : "Markus Ja"},
+    {"username" : "xmah", "givenname" : "Mahir Kiz"},
+    {"username" : "nadi", "givenname" : "Nadim Ren"},
+    {"username" : "benn", "givenname" : "Benjamin "},
+    {"username" : "dire", "givenname" : "Direnc Ki"},
+    {"username" : "nico", "givenname" : "Nico Schu"},
+    {"username" : "dome", "givenname" : "Domenique"},
+    {"username" : "hass", "givenname" : "Hassan Ya"},
+    {"username" : "giin", "givenname" : "Gina Guez"},
+    {"username" : "carl", "givenname" : "Simon Car"},
+    {"username" : "viet", "givenname" : "Tommy Bui"},
+    {"username" : "anil", "givenname" : "Anil Kaan"},
+    {"username" : "meli", "givenname" : "Melike Nu"},
+    {"username" : "seyd", "givenname" : "Seydi Cop"},
+    {"username" : "jano", "givenname" : "Jan Czern"},
+    {"username" : "andr", "givenname" : "Andre Gol"},
+    {"username" : "esra", "givenname" : "Esra Erdo"},
+    {"username" : "raga", "givenname" : "Regina Fe"},
+    {"username" : "jenn", "givenname" : "Jennifer "},
+    {"username" : "fati", "givenname" : "Fationa K"},
+    {"username" : "jani", "givenname" : "Janin Kha"},
+    {"username" : "cere", "givenname" : "Ceren Kon"},
+    {"username" : "rona", "givenname" : "Mandy Sch"},
+    {"username" : "cans", "givenname" : "Cansu Yan"},
+    {"username" : "heel", "givenname" : "Onur Dagl"},
+    {"username" : "hadi", "givenname" : "Hidaya Ab"}
+    ]
+}
